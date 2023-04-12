@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vince7488
-- 👀 I’m interested in ... Programming and Software Development
-- 🌱 I’m currently learning ... ReactJS and anything that can be programmed.
+- 👀 User Experience (UX) Designer with a knack for Web Development. Hero of HTML5 and CSS3.
+- 🌱 I am the Bridge of UX/Business to Engineering.  I am the connection between People and your application.
 
 If there seems to be less work here, it's because some of my coding happens in bit#bucket, too.
 
