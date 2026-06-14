@@ -8,7 +8,7 @@ Some of it in [CodePen](https://codepen.io/vm7488)
 
 ## Don't see my Work? 
 
-- They're some are on my [Bitbucket page](https://bitbucket.org/vince7488)
+- There are some on my [Bitbucket page](https://bitbucket.org/vince7488). Mostly private repos. Like my Portfolio site. Don't want that exposed.
 - 90% of work are on self-hosted corporate/organisation accounts with Github.
 
 <!---
